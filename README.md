@@ -28,11 +28,11 @@ This program takes a user input (integer) and prints a pyramid pattern using ast
 ## How to Run
 1. Compile the program:
    ```sh
-   javac ForLoop.java
+   javac pyramid.java
    ```
 2. Run the program:
    ```sh
-   java ForLoop
+   java pyramid
    ```
 3. Enter an integer value to generate a pyramid pattern.
 4. To stop execution, use `Ctrl + C`.
